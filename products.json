@@ -1,0 +1,40 @@
+[
+  {
+    "name": "accent chair",
+    "price": 25,
+    "company": "HamCAMP",
+    "rating": 4
+  },
+  {
+    "name": "modern poster",
+    "price": 30,
+    "company": "DAC_CAMP"
+  },
+  {
+    "name": "simple chair",
+    "price": 109,
+    "company": "DAC_CAMP"
+  },
+  {
+    "name": "vase table",
+    "price": 120,
+    "featured": true,
+    "company": "HamCAMP"
+  },
+  {
+    "name": "wooden bed",
+    "price": 25,
+    "company": "C_ESS"
+  },
+  {
+    "name": "wooden desk",
+    "price": 15,
+    "company": "C_ESS"
+  },
+  {
+    "name": "wooden table",
+    "price": 23,
+    "featured": true,
+    "company": "HamCAMP"
+  }
+]
